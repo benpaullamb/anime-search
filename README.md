@@ -15,6 +15,7 @@ I built this to practice my Python and to learn Flask & requests.
 - Python
 - Flask
 - Vue CLI
+- Kitsu (Anime API)
 
 ## Getting Started
 
