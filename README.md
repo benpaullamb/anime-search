@@ -50,7 +50,9 @@ source venv/bin/activate
 python3 -m pip install -r requirements.txt
 ```
 
-4. Run the Flask server.
+4. Create a `.env` file based on the `.env.example` file.
+
+5. Run the Flask server.
 
 ```
 python3 -m flask run
