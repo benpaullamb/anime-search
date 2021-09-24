@@ -8,7 +8,7 @@ An anime search web app built in an afternoon.
 
 ![Screenshot of the app](./screenshot.png)
 
-I built to practice my Python and to learn Flask & requests.
+I built this to practice my Python and to learn Flask & requests.
 
 ### Built with
 
@@ -43,10 +43,10 @@ venv/Scripts/Activate
 source venv/bin/activate
 ```
 
-3. Install Flask, requests, and python-dotenv
+3. Install the dependencies.
 
 ```
-python3 -m pip install flask requests python-dotenv
+python3 -m pip install -r requirements.txt
 ```
 
 4. Run the Flask server.
