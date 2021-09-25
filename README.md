@@ -31,17 +31,17 @@ I built this to practice my Python and to learn Flask & requests.
 1. Create a Python virtual environment.
 
 ```
-python3 -m venv venv
+python3 -m venv .venv
 ```
 
 2. Activate the virtual environment.
 
 ```
 // On Windows
-venv/Scripts/Activate
+.venv/Scripts/Activate
 
 // On Mac
-source venv/bin/activate
+source .venv/bin/activate
 ```
 
 3. Install the dependencies.
